@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;Problem+Solver;Tech+Enthusiast&center=true&width=500&height=45">
 </p>
 
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
 ---
 
 ### 💡 About Me
